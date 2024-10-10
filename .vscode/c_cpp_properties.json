@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "BrainSlug",
+            "includePath": [
+                "C:/devkitPro/bslug/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "GEKKO",
+                "HW_RVL",
+                "__wii__"
+            ],
+            "compilerPath": "C:/devkitPro/devkitPPC/bin/powerpc-eabi-gcc.exe",
+            "cStandard": "c89",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
